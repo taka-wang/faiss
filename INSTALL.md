@@ -1,8 +1,8 @@
 [//]: # "**********************************************************"
-[//]: # "** INSTALL file for Faiss (Fair AI Similarity Search    **"
+[//]: # "** INSTALL file for Faiss (Facebook AI Similarity Search    **"
 [//]: # "**********************************************************"
 
-INSTALL file for Faiss (Fair AI Similarity Search)
+INSTALL file for Faiss (Facebook AI Similarity Search)
 ==================================================
 
 Install via Conda
