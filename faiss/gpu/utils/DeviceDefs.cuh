@@ -17,6 +17,7 @@ namespace faiss { namespace gpu {
 #error "CUDA >= 8.0 is required"
 #endif
 
+#define __CUDA_ARCH__ 800
 #ifdef __CUDA_ARCH__
 #if __CUDA_ARCH__ <= 800
 constexpr int kWarpSize = 32;
